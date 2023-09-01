@@ -54,3 +54,8 @@ body {
     padding: 5px 10px;
     cursor: pointer;
 }
+.Desktoptext{
+    background-color: #007bff;
+    border-radius: 100px;
+    font-size: 5px;
+}
